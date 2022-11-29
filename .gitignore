@@ -1,2 +1,3 @@
 # ignore files and dirs
 mcanvas-venv/
+test*.jpg
